@@ -1,0 +1,23 @@
+{
+  "name": "sprint_intro_python_II",
+  "version": "1.0.0",
+  "description": "In this week's Sprint you explored the Python programming language as well as object-oriented design principles. This Sprint Challenge aims to assess your comfort in both of these areas through exercises similar to the ones you worked on at the beginning of this week in Intro to Python.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tolls-3/Sprint-Challenge--Intro-Python.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tolls-3/Sprint-Challenge--Intro-Python/issues"
+  },
+  "homepage": "https://github.com/tolls-3/Sprint-Challenge--Intro-Python#readme",
+  "dependencies": {
+    "csvtojson": "^2.0.10"
+  }
+}
